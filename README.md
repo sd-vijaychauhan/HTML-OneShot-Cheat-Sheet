@@ -49,7 +49,7 @@ Feel free to open an issue or reach out!
 ---
 
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not licensed, Its Open Source.
 
 ---
 
