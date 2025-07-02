@@ -19,6 +19,13 @@ A beginner-friendly and comprehensive **HTML cheat sheet** that summarizes all k
 
 ---
 
+## 📄 File Included
+
+- [`HTML_Cheat_Sheet.pdf`](./HTML_Cheat_Sheet.pdf)  
+  A printable, offline-friendly PDF version of the full cheat sheet.
+
+---
+
 ## 📌 Use Cases
 
 - 🔹 Interview & exam preparation
@@ -29,6 +36,15 @@ A beginner-friendly and comprehensive **HTML cheat sheet** that summarizes all k
 ---
 
 ## 🚀 Getting Started
+
+Simply [download the PDF](./HTML_Cheat_Sheet.pdf) and start learning or revising HTML anytime, anywhere — no setup required.
+
+---
+
+## 🛠 How It Was Made
+
+This cheat sheet was programmatically generated using Python’s `fpdf` library and structured for readability and clarity.
+
 ---
 
 ## 🤝 Contributing
@@ -48,10 +64,10 @@ Feel free to open an issue or reach out!
 
 ---
 
+## 📄 License
 
-This project is not licensed, Its Open Source.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ⭐ **Star this repo** if you find it helpful!
-
