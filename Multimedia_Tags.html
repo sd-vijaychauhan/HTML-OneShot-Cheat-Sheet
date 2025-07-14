@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>📷 Multimedia Tags Example</title>
+</head>
+<body>
+
+  <h1>📷 Multimedia Tags in HTML</h1>
+
+  <!-- 🔸 <img>: Used to display images -->
+  <!-- 'src' = path to the image, 'alt' = alternate text shown if image fails to load -->
+  <h2>&lt;img&gt; – Display Image</h2>
+  <img src="https://via.placeholder.com/200x150" alt="Placeholder Image" width="200" height="150">
+  <p>This is an image with <code>src</code> and <code>alt</code> attributes.</p>
+
+  <hr>
+
+  <!-- 🔸 <audio>: Used to embed audio files -->
+  <!-- 'controls' adds the default audio player with play/pause, volume, etc. -->
+  <h2>&lt;audio&gt; – Embed Audio</h2>
+  <audio controls>
+    <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <p>This is an audio file with the <code>controls</code> attribute.</p>
+
+  <hr>
+
+  <!-- 🔸 <video>: Used to embed video files -->
+  <!-- 'controls' gives play/pause, 'width' sets the width, 'poster' shows an image before play -->
+  <h2>&lt;video&gt; – Embed Video</h2>
+  <video width="320" height="240" controls poster="https://via.placeholder.com/320x240?text=Video+Thumbnail">
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>This is a video with play controls and a poster thumbnail.</p>
+
+  <hr>
+
+  <!-- 🔸 <iframe>: Used to embed another webpage (or YouTube video, Google Maps, etc.) -->
+  <!-- 'src' = URL of the page to embed, 'width' and 'height' set dimensions -->
+  <h2>&lt;iframe&gt; – Embed Another Webpage</h2>
+  <iframe src="https://www.wikipedia.org" width="600" height="300" title="Wikipedia"></iframe>
+  <p>This iframe embeds the Wikipedia homepage inside the page.</p>
+
+</body>
+</html>
